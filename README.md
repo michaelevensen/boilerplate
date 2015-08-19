@@ -1,4 +1,4 @@
-![Meteor](https://cask.scotch.io/2015/05/meteor-logo.png)
+![Meteor](http://svgporn.com/logos/meteor-icon.svg)
 
 Extremely Simple Boilerplate for the Meteor JavaScript Framework
 
